@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amjad.
+- 🌱 I’m currently learning python, HTML, CSS, and JS.
+- 💞️ I’m looking to collaborate on projects and help building programs, apps, games, or any other code related projects.
+- 📫 You can reach me at: amjood08@gmail.com
